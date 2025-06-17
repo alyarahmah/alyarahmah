@@ -30,10 +30,10 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Github](https:
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/alyarahmah">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alyarahmah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alyarahmah&layout=compact&layout=compact&theme=algolia"/>
 </a>
 </p>
 
 ## Github Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlyaSRahmah&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlyaRahmah&theme=dark&hide_border=true)](https://git.io/streak-stats)
